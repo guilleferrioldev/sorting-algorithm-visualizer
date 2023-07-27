@@ -94,8 +94,6 @@ It uses a temporary array making it a non In Place algorithm.
 # Links and Refrences 
 https://youtu.be/twRidO-_vqQ
 
-https://github.com/Ctoic/Algorithm-Visualizer-Using-pygame
-
 https://www.geeksforgeeks.org/
 
 https://stackoverflow.com/
