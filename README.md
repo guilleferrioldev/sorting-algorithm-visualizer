@@ -98,8 +98,6 @@ https://github.com/Ctoic/Algorithm-Visualizer-Using-pygame
 
 https://www.geeksforgeeks.org/
 
-https://www.youtube.com/watch?v=twRidO-_vqQ
-
 https://stackoverflow.com/
 
 https://docs.python.org/3/
