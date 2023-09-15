@@ -18,11 +18,36 @@ In this project we have used python language because of it's extensive librarire
 4. Run the above python file in any of your faviroite IDE and see the magic ;)
 5. You will see visualization of all sorting Algorithms
 
+### Install requirements 
+
+ 
+```
+python -r requirements.txt
+
+```
+
+
+### Run 
+
+Open the app folder and run the following command
+
+```
+python main.py
+
+```
+
 ### About the GUI and How it works
 When you will run the above code. A screen will pop up.
 This screen contain name of all nine Algorithms , Set and resset button and also it provides you option to select Ascecending or Desecending.
 For example if you want to Select Bubble Sort You havve to Press (B) and For Ascending (A) and then press SPACE.
 Now visualization will be start for the Random Data.
+
+
+### Pictures 
+
+![pic](./picture/sorting.png)
+
+![radix](./picture/radix.png)
 
 ## Bubble sort 
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. This algorithm is not suitable for large data sets as its average and worst-case time complexity is quite high.
